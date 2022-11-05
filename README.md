@@ -2,7 +2,7 @@
 # BST
 > basic stock tracker.
 
-BST is a very basic stock tracker that i am going to slowly devlop and expand, hopefully making it useful. It uses BeautifulSoup and requests to scrape stock data from yahoo finance
+BST is a very basic stock tracker that i am going to slowly devlop and expand, hopefully making it useful. It uses BeautifulSoup and requests to scrape stock data from yahoo finance and Rich to make the interface
 
 ***
 
@@ -27,7 +27,7 @@ python bst.py
 ***
 ## Credit
 
-Thanks to the creators of BeautifulSoup and Requests and Yahoo Finance.
+Thanks to the creators of BeautifulSoup, Rich, Requests and Yahoo Finance.
 
 
 
