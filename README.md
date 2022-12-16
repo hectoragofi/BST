@@ -9,7 +9,7 @@ BST is a very basic stock tracker that i am going to slowly devlop and expand, h
 ## Example Screenshots
 
 ![image2](ex1.png)
-![image2](ex1.png)
+![image2](ex2.png)
 
 
 ***
