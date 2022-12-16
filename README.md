@@ -6,6 +6,14 @@ BST is a very basic stock tracker that i am going to slowly devlop and expand, h
 
 ***
 
+## Example Screenshots
+
+![image1][ex1.png]
+![image2][ex2.png]
+
+
+***
+
 ## Notes
 
 - This is not meant to be used for anything professional as data may not be reliable
